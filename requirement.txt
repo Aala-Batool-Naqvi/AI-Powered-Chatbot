@@ -1,0 +1,30 @@
+install streamlit
+install langchain
+install python-dotenv
+install PyPDF2
+install langchain-openai
+install faiss-cpu
+install tiktoken
+install langchain_community
+install tabulate
+install langchain-experimental
+install beautifulsoup4
+install yt-dlp 
+install pydub  
+install langchain-chroma
+install pytube
+install youtube-transcript-api
+install unstructured
+install networkx
+install openpyxl
+install xlrd
+install python-pptx
+install transformers
+install pillow
+install python-docx
+
+
+
+
+
+
